@@ -24,3 +24,8 @@ tsconfig.tsbuildinfo
 
 # Logs
 *.log
+
+# Claude & build artifacts
+.claude/
+calendarr.tar.gz
+*.tar.gz
