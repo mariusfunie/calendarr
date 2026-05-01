@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Build
+dist/
+
+# Data (settings with API keys)
+data/
+
+# Environment
+.env
+.env.local
+.env.production
+
+# OS
+.DS_Store
+
+# TypeScript
+tsconfig.tsbuildinfo
+
+# Logs
+*.log
